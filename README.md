@@ -1,5 +1,5 @@
 ## Reverse Engineering the Stream Prefetcher for Profit 
-to appear in [EuroS&P 2020](https://www.ieee-security.org/TC/EuroSP2020/)
+To appear in [EuroS&P 2020](https://www.ieee-security.org/TC/EuroSP2020/) workshops.
 
 Please refer the paper for more details and explanation of all experiments.
 
