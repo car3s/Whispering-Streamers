@@ -1,3 +1,8 @@
+/* 
+ * Title: Reverse Engineering the Stream Prefetcher for Profit
+ * Authors: Aditya Rohan (IIT Kanpur), Biswabandan Panda (IIT Kanpur), Prakhar Agarwal (IIT Kanpur/ Tower Research)
+ * To appear in SILM Workshop EuroS&P 2020
+ */
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <sys/wait.h>
