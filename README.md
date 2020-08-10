@@ -31,9 +31,6 @@ For specific programs (assuming first physical core is isolated):
 
 You can find out the hit/miss threshold using this [calibration tool](https://github.com/IAIK/cache_template_attacks).
 Please refer the paper for more details and explanation of all experiments.
-## TODO
-* Add shared stream prefetcher experriment code
-* Add link to the paper
 
 #### *For any queries, ping me on [Linkedin](https://www.linkedin.com/in/aditya-rohan-95632a145)*
 
